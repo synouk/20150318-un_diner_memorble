@@ -4,3 +4,6 @@
 - Farine
 - Coca
 - Oeufs
+- Cheval
+- Four
+- Manganèse
