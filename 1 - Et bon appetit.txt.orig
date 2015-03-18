@@ -1,5 +1,7 @@
 Bin oui, c'est l'heure du repas, mon coco !
-Il y a même un repas pour les végétariens
+<<<<<<< HEAD
+Il y a même un repas végétarien :)
+=======
 
 Lundi
 entrée : salade norvegienne
@@ -15,3 +17,4 @@ Mercredi
 entrée : sur
 plat : pri
 dessert : se
+>>>>>>> develop
