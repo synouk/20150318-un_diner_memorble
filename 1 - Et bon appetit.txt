@@ -15,3 +15,8 @@ Mercredi
 entrée : sur
 plat : pri
 dessert : se
+
+Jeudi
+entrée : sole
+plat : raie
+dessert : scie
