@@ -9,3 +9,8 @@ Mardi
 entrée : carpaccio
 plat : pizza du chef
 dessert : glace
+
+Mercredi
+entrée : sur
+plat : pri
+dessert : se
